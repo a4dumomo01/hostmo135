@@ -5,3 +5,5 @@ echo 'add update';
 
 echo  'I am user_135 host server';
 echo  'now I add server something';
+echo  'I am user_128';
+echo  'user_128 add something_AAAAAAAA';
